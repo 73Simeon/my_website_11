@@ -13,8 +13,8 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
+      - city: Koudougou, Quartier Zakin secteur n*2
+        country: Burkina Faso
         street: Street
         title: Address
     buttonClear: Clear
@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+226) 67 60 24 70
         title: Phone
   custom_css: []
   custom_js: []
@@ -34,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: digital-conception
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -43,7 +43,7 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://www.twitter.com/@zongo_simeon
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com/zongowsimeon
@@ -75,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Formation and conception of card and softwart
+    title: Digital-Conception
   tiles:
     enable: yes
     showcase:
