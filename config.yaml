@@ -43,10 +43,10 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com/@zongo_simeon
+        url: https://www.twitter.com/zongo_simeon/followers
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com/zongowsimeon
+        url: https://www.facebook.com/Digital-Conception-539489796964909
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com
