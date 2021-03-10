@@ -75,20 +75,20 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: Formation and conception of card and softwart
+    subtitle: Formation and card,softwart Conception
     title: Digital-Conception
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+      - image: personel(165).jpg
+        subtitle: My best day in BIT
         title: Aliquam
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
+      - image: Digital.png
+        subtitle: Knownlegde Showing
         title: Tempus
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: Explain.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
