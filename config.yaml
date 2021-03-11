@@ -1,6 +1,6 @@
 baseURL: https://digital-conception.netlify.app/
 languageCode: en-us
-title: Simeon
+title: digital-conception
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,14 +8,14 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      This is my fisrt website
-    title: Hi, my name is Simeon
+      This is my website that I show my skill in informatique domain
+    title: Hi, my name is Wend-Benedo Simeon ZONGO
   blog: {}
   contact:
     address:
       - city: Koudougou, Quartier Zakin secteur n*2
         country: Burkina Faso
-        street: Street
+        street: N089 of Nandiala
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -37,9 +37,9 @@ params:
     copyright: digital-conception
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
+      - alt: Digital-Conception
         text: 'Design: '
-        url: https://www.html5up.net
+        url: https://www.facebook.com/Digital-Conception-539489796964909
     social:
       - icon: fa-twitter
         label: Twitter
@@ -57,7 +57,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Simeon ZONGO
   navigation:
     button1:
       - name: Get Started
@@ -70,7 +70,7 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
+      - name: A Propos
         url: blogs/ipsum
       - name: Elements
         url: elements.html
